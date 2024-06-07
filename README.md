@@ -2,3 +2,5 @@
 
 its my first time publishing the source code from one of my GameMaker projects, soooo.. dont mind my shitty code :trollface:
 
+// how do i open this shit?? 😠
+its simple :trollface:, just download the repository zip, extract it, and open it with [gamemaker](https://gamemaker.io) (it wont work for gamemaker 1.4)
