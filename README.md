@@ -7,3 +7,6 @@ you dummies - how do i open this shit?? 🥺
 Me😎 - its simple!!11!!!!!!1!!!1 Just download the repository zip, extract it, and open it with [gamemaker](https://gamemaker.io) 
 
 (it wont work for gamemaker 1.4)
+
+you dummies(again) - BUT MS.IRISSEXO WHAT CAN I DO WITH ALL OF THIS BIG BRAIN INTELLIGENT CODE????? >:D
+Me😎 - u can do whatever u want broooo iéié🤪 (this means, modding, uuuuhh modding... just give me credits for the base project okayy?)
