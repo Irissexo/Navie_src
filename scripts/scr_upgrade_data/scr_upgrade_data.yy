@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_upgrade_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_upgrade_data",
+  "parent":{
+    "name":"data",
+    "path":"folders/Scripts/data.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

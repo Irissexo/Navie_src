@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_msc_main_menu",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":38.164875,
+  "name":"snd_msc_main_menu",
+  "parent":{
+    "name":"ost",
+    "path":"folders/Sons/ost.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_msc_main_menu.mp3",
+  "type":0,
+  "volume":1.0,
+}

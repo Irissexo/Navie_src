@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_lifebar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_lifebar",
+  "parent":{
+    "name":"sys",
+    "path":"folders/Scripts/sys.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

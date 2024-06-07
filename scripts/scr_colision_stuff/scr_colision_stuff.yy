@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_colision_stuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_colision_stuff",
+  "parent":{
+    "name":"entidades",
+    "path":"folders/Scripts/entidades.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
